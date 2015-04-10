@@ -1,4 +1,4 @@
-package demo;
+package hello;
 
 public class ConsoleHelloService implements HelloService{
 
